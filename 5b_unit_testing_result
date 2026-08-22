@@ -1,0 +1,8 @@
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-9.1.1, pluggy-1.6.0
+rootdir: /home/project/final_project
+collected 1 item
+
+test_emotion_detection.py .                                              [100%]
+
+============================== 1 passed in 0.77s ===============================
